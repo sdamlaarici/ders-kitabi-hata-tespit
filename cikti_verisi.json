@@ -1,0 +1,28 @@
+[
+    {
+        "sayfa_no": 1,
+        "paragraf_no": 1,
+        "koordinatlar": {
+            "x0": 50.0,
+            "y0": 88.18,
+            "x1": 599.26,
+            "y1": 103.29
+        },
+        "kelime_sayisi": 13,
+        "metin": "Gunes sistemimizdeki gezegenler belirli yorungelerde hareket eder. Yanliz bu hareket sirasinda herkez dunya'nin",
+        "sayfadaki_linkler": []
+    },
+    {
+        "sayfa_no": 1,
+        "paragraf_no": 2,
+        "koordinatlar": {
+            "x0": 50.0,
+            "y0": 168.18,
+            "x1": 402.73,
+            "y1": 183.29
+        },
+        "kelime_sayisi": 8,
+        "metin": "Etkinlik 1: Asagidaki sorulari dikkatlice okuyarak defterinize cevaplayiniz.",
+        "sayfadaki_linkler": []
+    }
+]
