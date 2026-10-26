@@ -4,12 +4,12 @@
         "paragraf_no": 1,
         "koordinatlar": {
             "x0": 50.0,
-            "y0": 88.18,
-            "x1": 599.26,
-            "y1": 103.29
+            "y0": 80.0,
+            "x1": 513.4,
+            "y1": 111.36
         },
-        "kelime_sayisi": 13,
-        "metin": "Gunes sistemimizdeki gezegenler belirli yorungelerde hareket eder. Yanliz bu hareket sirasinda herkez dunya'nin",
+        "kelime_sayisi": 17,
+        "metin": "Gunes sistemimizdeki gezegenler belirli yorungelerde hareket eder. Yanliz bu hareket sirasinda herkez Gunes Dunya'nin etrafinda doner sanabilir.",
         "sayfadaki_linkler": []
     },
     {
@@ -17,12 +17,25 @@
         "paragraf_no": 2,
         "koordinatlar": {
             "x0": 50.0,
-            "y0": 168.18,
-            "x1": 402.73,
-            "y1": 183.29
+            "y0": 160.0,
+            "x1": 529.24,
+            "y1": 191.36
         },
-        "kelime_sayisi": 8,
-        "metin": "Etkinlik 1: Asagidaki sorulari dikkatlice okuyarak defterinize cevaplayiniz.",
+        "kelime_sayisi": 16,
+        "metin": "Etkinlik 1: Asagidaki gezegen isimlerini sirasiyla ezberleyiniz ve konuyla ilgili dijital videoyu izlemek icin karekodu okutunuz.",
+        "sayfadaki_linkler": []
+    },
+    {
+        "sayfa_no": 1,
+        "paragraf_no": 3,
+        "koordinatlar": {
+            "x0": 50.0,
+            "y0": 240.0,
+            "x1": 526.81,
+            "y1": 303.86
+        },
+        "kelime_sayisi": 43,
+        "metin": "Uzay arastirmalari tarihsel surec icerisinde teleskobun icadiyla hiz kazanmis olup galaksilerin yildizlarin gezegenlerin uydularin kuyruklu yildizlarin ve asteroit kusaklarinin yapisi hakkinda bircok farkli bilimsel gozlem verisi elde edilmesini saglamis ve insanligin evreni anlamlandirma cabasina cok buyuk katkilar sunarak modern astrofizik biliminin temellerini olusturmustur",
         "sayfadaki_linkler": []
     }
 ]

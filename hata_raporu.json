@@ -1,0 +1,110 @@
+[
+    {
+        "sayfa_no": 1,
+        "paragraf_no": 1,
+        "koordinatlar": {
+            "x0": 50.0,
+            "y0": 80.0,
+            "x1": 513.4,
+            "y1": 111.36
+        },
+        "orijinal_metin": "Gunes sistemimizdeki gezegenler belirli yorungelerde hareket eder. Yanliz bu hareket sirasinda herkez Gunes Dunya'nin etrafinda doner sanabilir.",
+        "kelime_sayisi": 17,
+        "hata_sayisi": 3,
+        "bulunan_hatalar": [
+            {
+                "kriter_no": 1,
+                "kriter_adi": "Dil ve Anlatım Doğruluğu",
+                "hata_tipi": "TDK Yazım Yanlışı",
+                "onem_derecesi": "Yüksek",
+                "hatali_ifade": "yanliz",
+                "aciklama": "Metinde 'yanliz' kelimesi TDK yazım kurallarına aykırı yazılmıştır.",
+                "duzeltme_onerisi": "'yanliz' yerine 'yalnız' kullanılmalıdır."
+            },
+            {
+                "kriter_no": 1,
+                "kriter_adi": "Dil ve Anlatım Doğruluğu",
+                "hata_tipi": "TDK Yazım Yanlışı",
+                "onem_derecesi": "Yüksek",
+                "hatali_ifade": "herkez",
+                "aciklama": "Metinde 'herkez' kelimesi TDK yazım kurallarına aykırı yazılmıştır.",
+                "duzeltme_onerisi": "'herkez' yerine 'herkes' kullanılmalıdır."
+            },
+            {
+                "kriter_no": 2,
+                "kriter_adi": "Pedagojik Uygunluk ve Tutarlılık",
+                "hata_tipi": "Bilimsel / Kavramsal Yanılgı",
+                "onem_derecesi": "Yüksek",
+                "hatali_ifade": "Güneş Dünya'nın etrafında döner",
+                "aciklama": "Metinde astronomik ve bilimsel gerçekliğe aykırı kavramsal hata bulunmaktadır.",
+                "duzeltme_onerisi": "'Dünya, Güneş'in etrafında belirli bir yörüngede dolanır' şeklinde düzeltilmelidir."
+            }
+        ]
+    },
+    {
+        "sayfa_no": 1,
+        "paragraf_no": 2,
+        "koordinatlar": {
+            "x0": 50.0,
+            "y0": 160.0,
+            "x1": 529.24,
+            "y1": 191.36
+        },
+        "orijinal_metin": "Etkinlik 1: Asagidaki gezegen isimlerini sirasiyla ezberleyiniz ve konuyla ilgili dijital videoyu izlemek icin karekodu okutunuz.",
+        "kelime_sayisi": 16,
+        "hata_sayisi": 3,
+        "bulunan_hatalar": [
+            {
+                "kriter_no": 2,
+                "kriter_adi": "Pedagojik Uygunluk ve Tutarlılık",
+                "hata_tipi": "Pedagojik Dil Uyumsuzluğu",
+                "onem_derecesi": "Orta",
+                "hatali_ifade": "ezberleyiniz",
+                "aciklama": "'ezberleyiniz' ifadesi 5. sınıf düzeyinde yapılandırmacı yaklaşıma uygun değildir.",
+                "duzeltme_onerisi": "Yapılandırmacı eğitim modelinde ezber yerine 'kavrayınız, kendi cümlelerinizle açıklayınız' ifadeleri tercih edilmelidir."
+            },
+            {
+                "kriter_no": 2,
+                "kriter_adi": "Pedagojik Uygunluk ve Tutarlılık",
+                "hata_tipi": "Pedagojik Dil Uyumsuzluğu",
+                "onem_derecesi": "Orta",
+                "hatali_ifade": "ezberleyin",
+                "aciklama": "'ezberleyin' ifadesi 5. sınıf düzeyinde yapılandırmacı yaklaşıma uygun değildir.",
+                "duzeltme_onerisi": "Öğrenciyi ezbere yönlendirmek yerine keşfedici ve sorgulayıcı yönergeler kullanılmalıdır."
+            },
+            {
+                "kriter_no": 3,
+                "kriter_adi": "Bilişsel Yük ve Dijital Etkileşim",
+                "hata_tipi": "Eksik Dijital Bağlantı / URI",
+                "onem_derecesi": "Yüksek",
+                "hatali_ifade": "Dijital etkinlik yönlendirmesi",
+                "aciklama": "Metinde dijital bir içeriğe/karekoda atıf yapılmış ancak sayfada gömülü aktif bağlantı (URI) bulunamamıştır.",
+                "duzeltme_onerisi": "Sayfaya ilgili EBA/MEB dijital içerik bağlantısı veya karekod linki eklenmelidir."
+            }
+        ]
+    },
+    {
+        "sayfa_no": 1,
+        "paragraf_no": 3,
+        "koordinatlar": {
+            "x0": 50.0,
+            "y0": 240.0,
+            "x1": 526.81,
+            "y1": 303.86
+        },
+        "orijinal_metin": "Uzay arastirmalari tarihsel surec icerisinde teleskobun icadiyla hiz kazanmis olup galaksilerin yildizlarin gezegenlerin uydularin kuyruklu yildizlarin ve asteroit kusaklarinin yapisi hakkinda bircok farkli bilimsel gozlem verisi elde edilmesini saglamis ve insanligin evreni anlamlandirma cabasina cok buyuk katkilar sunarak modern astrofizik biliminin temellerini olusturmustur",
+        "kelime_sayisi": 43,
+        "hata_sayisi": 1,
+        "bulunan_hatalar": [
+            {
+                "kriter_no": 1,
+                "kriter_adi": "Dil ve Anlatım Doğruluğu",
+                "hata_tipi": "Noktalama Eksikliği",
+                "onem_derecesi": "Düşük",
+                "hatali_ifade": "i olusturmustur",
+                "aciklama": "Paragraf sonunda uygun bitiş noktalama işareti bulunmamaktadır.",
+                "duzeltme_onerisi": "Cümle sonuna anlamına göre nokta (.) veya uygun noktalama işareti eklenmelidir."
+            }
+        ]
+    }
+]
